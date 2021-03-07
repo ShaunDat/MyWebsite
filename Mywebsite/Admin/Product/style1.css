@@ -1,0 +1,54 @@
+.menubar{
+    background: #4407E9;
+    color: #FFFFFF;
+    width: 850px;
+    height: 30px;
+}
+.menubar1{
+    background: #676767;
+    color: aliceblue;
+    width: 150px;
+    height: 150px;
+    list-style-type: none;
+    
+}
+#horizontal li{
+    display: inline;
+    list-style: none;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    list-style-type: none;	
+}
+#vertical li{
+    display: inline;
+    list-style: none;
+    padding: 10px;
+    list-style-type:none;	
+}
+*{width: 800px}
+#hinhanh1{
+    width: 150px;
+    float: left;
+}
+#search{
+    width: 300px;
+    float: left;
+}
+#submit{
+    width:100px ;
+    float: left;
+}
+#hinhanh2{
+    width: 50px;
+    float: left;
+}
+#hinhanh3{
+    width: 150px;
+    float: left;
+}
+#hinhanh4{
+    width: 100px;
+    float: left;
+}
+
